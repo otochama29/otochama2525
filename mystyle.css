@@ -4,4 +4,4 @@ h1 { color:hotpink; }
 
 th, td { border: dashed thick black; }
 
-h.important { color: red; }
+th.important { color: red; }
