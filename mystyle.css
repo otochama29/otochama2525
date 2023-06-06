@@ -1,3 +1,5 @@
 h1 { color:hotpink; }
 
 /*h1 { color: hotpink; }*/h1 { color: #F0A050; }
+
+th, td { border: dashed thick black; }
