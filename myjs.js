@@ -1,3 +1,3 @@
-alert('Hello,Otoka!);
+alert('Hello,Otoka!');
 alert(1+1);
 alert(Math.sqrt(1+1));
